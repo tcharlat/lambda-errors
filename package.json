@@ -1,0 +1,29 @@
+{
+  "name": "lambda-errors",
+  "version": "0.0.0",
+  "description": "A standard error strings generator intended to be caught by AWS API Gateway error pattern matching.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kallikrein/lambda-errors.git"
+  },
+  "keywords": [
+    "AWS",
+    "lambda",
+    "API",
+    "Gateway",
+    "error",
+    "errors",
+    "response",
+    "status"
+  ],
+  "author": "Thomas Charlat \"thomas.charlat@gmail.com\"",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Kallikrein/lambda-errors/issues"
+  },
+  "homepage": "https://github.com/Kallikrein/lambda-errors#readme"
+}
