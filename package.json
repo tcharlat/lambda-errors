@@ -1,6 +1,6 @@
 {
   "name": "lambda-errors",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A standard error strings generator intended to be caught by AWS API Gateway error pattern matching.",
   "main": "index.js",
   "scripts": {
